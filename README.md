@@ -1,3 +1,5 @@
+# MOVED: The repo has moved to a special GitHub organization! [Click here](https://github.com/NeobloxExecutor/neoblox) to go to it!
+
 # Neoblox
 
 ## A level 7 keyless Lua executor for Roblox. Free, forever!
